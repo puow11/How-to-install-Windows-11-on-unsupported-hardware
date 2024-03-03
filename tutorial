@@ -1,0 +1,15 @@
+1. Download your Windows 11 ISO
+2. Extract it
+3. Go to sources and find appraiserres.dll
+4. Right-click and select "Modify with Notepad" or "Open with" then choose "Notepad"
+5. Ctrl+F and look for your PC's incompability (Example: UefiSecureBoot, TpmOrCpu)
+6. Copy that big chunk where you have the PC's incompatibility written
+7. Delete it
+8. Run setup.exe
+
+If it doesn't work try this :
+1. Download your Windows 11 ISO
+2. Extract it
+3. Open Command Prompt as Administrator in the directory of the Windows 11 folder (Extracted ISO)
+4. Type "setupprep.exe /product server"
+5. Continue with the proccess (Note: Even though it says "Install Windows Server" , it'll install Windows 11)
