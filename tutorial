@@ -12,4 +12,4 @@ If it doesn't work try this :
 2. Extract it
 3. Open Command Prompt as Administrator in the directory of the Windows 11 folder (Extracted ISO)
 4. Type "setupprep.exe /product server"
-5. Continue with the proccess (Note: Even though it says "Install Windows Server" , it'll install Windows 11)
+5. Continue with the proccess (Note: Even though it says "Install Windows Server" , it'll install Windows 11) 
